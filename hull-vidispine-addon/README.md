@@ -1,5 +1,5 @@
 # The hull-vidispine-addon chart
-
+Testing by samd
 This helm chart is used to provide Vidispine specific functionality to Helm charts that are built upon the HULL library.
 
 ## The hull-install and hull-configure job
